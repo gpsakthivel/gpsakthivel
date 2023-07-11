@@ -6,13 +6,6 @@
 
 I am a Associate Software Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Associate Software Analyst and contributing to frontend web applications.
-- 🌱 I’m currently learning Angular.
-- 📫 How to reach me: psakthi24vel@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Understanding the web connections
-
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
